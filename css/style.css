@@ -1,0 +1,26 @@
+body {
+    background-color: #7FFFD4;
+}
+
+button {
+    width: 25px;
+}
+
+h1 {
+    color: #BA55D3;
+    font-size: 19pt;
+}
+
+p {
+    font-size: 24pt;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid lime;
+    width: 3em;
+    height: 5em;
+}
